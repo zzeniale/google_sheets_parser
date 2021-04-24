@@ -1,5 +1,5 @@
 ### Google Sheets parser
-######For parsing bake shop orders from Google Forms
+#####For parsing bake shop orders from Google Forms
 ---
 A simple spreadsheet parser that is integrated with the Google Sheets API to allow seamless parsing of data without having to first manually export the csv file from Google Sheets. It is built using the [starter code](https://developers.google.com/sheets/api/quickstart/python) provided by the Google Sheets API. 
 
